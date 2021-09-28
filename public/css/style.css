@@ -1,0 +1,43 @@
+.header {
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
+}
+.footer {
+    bottom: 5%;
+    left: 2.5%;
+    position: absolute;
+}
+h2 {
+    top: 53%;
+    left: 50%;
+    position: absolute;
+    transform: translateX(-53%) translateY(-50%);
+    text-decoration: underline;
+}
+div {
+    display: flex;
+    justify-content: center;
+}
+p {
+    text-align: justify;
+    width: 800px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+li {
+    margin-right: 20px;
+}
+body {
+    background-color: rgb(201, 197, 197);
+}
