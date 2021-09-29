@@ -1,8 +1,8 @@
 .header {
-    top: 50%;
-    left: 50%;
+    top: 40%;
+    left: 40%;
     position: absolute;
-    transform: translateX(-50%) translateY(-50%);
+    
 }
 .footer {
     bottom: 5%;
@@ -10,11 +10,9 @@
     position: absolute;
 }
 h2 {
-    top: 53%;
-    left: 50%;
+    top: 47%;
+    left: 44%;
     position: absolute;
-    transform: translateX(-53%) translateY(-50%);
-    text-decoration: underline;
 }
 div {
     display: flex;
@@ -22,7 +20,7 @@ div {
 }
 p {
     text-align: justify;
-    width: 800px;
+    width: 900px;
 }
 a {
     text-decoration: none;
